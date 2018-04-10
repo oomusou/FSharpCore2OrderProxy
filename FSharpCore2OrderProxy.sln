@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ConsoleApp", "ConsoleApp\ConsoleApp.fsproj", "{31AE5283-442D-4E76-B9AF-0D78D1894588}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "OrderLibrary", "OrderLibrary\OrderLibrary.fsproj", "{47943625-6D8E-4B1F-91DC-4BBBF801BB98}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MemberLibrary", "MemberLibrary\MemberLibrary.fsproj", "{99D2092F-3E50-4584-BD40-BA7557AE7F6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{31AE5283-442D-4E76-B9AF-0D78D1894588}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31AE5283-442D-4E76-B9AF-0D78D1894588}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31AE5283-442D-4E76-B9AF-0D78D1894588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47943625-6D8E-4B1F-91DC-4BBBF801BB98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47943625-6D8E-4B1F-91DC-4BBBF801BB98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47943625-6D8E-4B1F-91DC-4BBBF801BB98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47943625-6D8E-4B1F-91DC-4BBBF801BB98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D2092F-3E50-4584-BD40-BA7557AE7F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D2092F-3E50-4584-BD40-BA7557AE7F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D2092F-3E50-4584-BD40-BA7557AE7F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D2092F-3E50-4584-BD40-BA7557AE7F6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
